@@ -1,0 +1,9 @@
+REACT
+
+ npm init -y (-y stands for yes. 
+             will simply generate an empty npm project without going through an interactive process and fill the JSON with preset values. )
+ 
+ npm i webpack webpack-cli --save-dev
+ (Webpack CLI provides the interface of options webpack uses in its configuration file. The CLI options override options passed in the configuration file. The CLI provides a rich set of commands that helps you develop your application faster.)
+
+    
