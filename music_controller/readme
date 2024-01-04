@@ -6,4 +6,23 @@ REACT
  npm i webpack webpack-cli --save-dev
  (Webpack CLI provides the interface of options webpack uses in its configuration file. The CLI options override options passed in the configuration file. The CLI provides a rich set of commands that helps you develop your application faster.)
 
-    
+npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+
+npm i react react-dom --save-dev
+
+npm install @material-ui/core
+
+npm install @babel/plugin-proposal-class-properties
+
+npm install react-router-dom
+
+npm install @material-ui/icons
+
+for React make a file of babel.config.json and write the code in it
+
+now make a file webpack.config.js and write a code in it
+
+after making several files
+
+We actually make a django template to render the frontend and then the frontend is managed by the react further
+
